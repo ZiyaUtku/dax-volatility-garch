@@ -134,6 +134,6 @@ Plots regenerate into `plots/`. Console prints all diagnostics, coefficients, an
 
 ## Author
 
-[Your Name] — [LinkedIn](https://linkedin.com/in/your-handle) — [Blog](https://your-blog.com)
+Ziya Utku Karadeniz — linkedin.com/in/ziyautkukaradeniz
 
-Part of an ongoing series applying CFA Level II quantitative methods to real market data. Previous post: DAX factor decomposition.
+Part of an ongoing series applying CFA Level II quantitative methods to real market data.
